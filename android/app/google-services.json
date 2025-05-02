@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698894229094",
+    "project_id": "truexgold-fc248",
+    "storage_bucket": "truexgold-fc248.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698894229094:android:13f4d6d0b3e277abdd97a7",
+        "android_client_info": {
+          "package_name": "com.truexgold.p2p"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACjUr3Dsxs7ZKDEkhTxR1Grw-a-IfVP1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
